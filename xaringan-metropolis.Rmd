@@ -3,28 +3,22 @@ title: "An-arrgh-chy or Dictator-ship?"
 subtitle: "The Political Economy of Pirates"
 author: "Danilo Freire"
 date: "The Political Theory Project, Brown University"
-output:
+output: 
   xaringan::moon_reader:
-    css: [default, metropolis, metropolis-fonts, my-style.css]
-    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    css:
+      - default
+      - mtheme.css
+      - fonts_mtheme.css
     nature: 
       beforeInit: "macros.js"
       highlightStyle: github
-      ratio: 4:3
       highlightLines: true
       countIncrementalSlides: false
-      slideNumberFormat: |
-        <div class="progress-bar-container">
-          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
-          </div>
-        </div>
-
 ---
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-
 class: inverse, center, middle
 
 # Hello everyone! :)
