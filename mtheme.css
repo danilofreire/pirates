@@ -115,12 +115,12 @@ hr, .mline h1::after {
 }
 
 .remark-slide-number {
-  font-size: 13pt;
+  font-size: 0pt;
   color: #272822;
   opacity: 1;
 }
 .inverse .remark-slide-number {
-  font-size: 13pt;
+  font-size: 0pt;
   color: #FAFAFA;
   opacity: 1;
 }
