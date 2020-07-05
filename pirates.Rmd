@@ -136,7 +136,7 @@ class: inverse, center, middle
 
 # An-arrgh-chy
 
-.center[![](anarchy.png)]
+.center[![:scale 70%](anarchy.png)]
 
 ---
 
