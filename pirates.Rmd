@@ -443,9 +443,9 @@ class: inverse, center, middle
 .font140[
 * Like every society, pirate groups also required social rules and governance institutions
 
-* The institutions that constituted the pirates' system of governance - democratic checks, the separation of power, and constitutions - are remarkably similar to those governments employ to constrain ruler predation in the legitimate world
+* Pirates' system of governance - democratic checks, separation of powers, and enforced constitutions - is remarkably similar to what modern democracies do to prevent ruler predation
 
-* Pirate organisations reflected an efficient institutional response to the particular economic situation that pirate ships faced
+* Pirate organisations reflected an efficient institutional response to the particular economic situation pirates were in
 
 * Private governance can be as effective as state-provided governance
 ]
